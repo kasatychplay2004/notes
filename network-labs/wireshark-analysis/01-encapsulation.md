@@ -117,3 +117,5 @@ DNS-туннелирование — атакующий вынужден дро�
 
 MSS (TCP) = MTU − 20 (IP) − 20 (TCP) → 1460 при MTU 1500
 Данные (UDP/ICMP) = MTU − 20 (IP) − 8 → 1472 при MTU 1500
+
+<img width="976" height="511" alt="preview" src="https://github.com/user-attachments/assets/02c6cd94-a300-46a6-b1ae-36461533c1e1" />
