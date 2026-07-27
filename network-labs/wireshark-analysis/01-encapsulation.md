@@ -97,7 +97,7 @@ DNS не хранит имя как строку с точками. Исполь
 06 'yandex'
 03 'net'
 00 ← конец имени
-<img width="893" height="251" alt="preview (1)" src="https://github.com/user-attachments/assets/46e4104b-5b1f-4dec-82c9-e509084ea239" />
+<img width="2424" height="1214" alt="уцкцукцу" src="https://github.com/user-attachments/assets/9aec86a3-0a96-4893-adf9-8d485d1a370b" />
 
 **Ограничения формата:** одна метка — до 63 байт, полное имя — до 255.
 
@@ -121,6 +121,6 @@ DNS-туннелирование — атакующий вынужден дро�
 
 MSS (TCP) = MTU − 20 (IP) − 20 (TCP) → 1460 при MTU 1500
 Данные (UDP/ICMP) = MTU − 20 (IP) − 8 → 1472 при MTU 1500
-<img width="2424" height="1214" alt="уцкцукцу" src="https://github.com/user-attachments/assets/a950fbd8-df44-4324-81c4-decaad4e4d1a" />
+
 
 
