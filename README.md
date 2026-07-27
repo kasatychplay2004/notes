@@ -11,3 +11,7 @@
 
 - [Системы счисления и кодировки](M0-fundamentals/01-encodings.md) — binary, hex, ASCII, Base64, URL-encoding, parser differential
 - [Как ОС изолирует](M0-fundamentals/02-os-isolation.md) - Kernel space и user space, процессы и дерево процессов, виртуальная память
+
+## Модуль 1. Сети через призму безопасности
+
+- [Модель OSI, инкапсуляция, MTU](M1-networks/01-osi-encapsulation.md) - Семь уровней OSI, Модель TCP/IP, Инкапсуляция, MTU и фрагментация
