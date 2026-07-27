@@ -16,5 +16,5 @@
 
 - [Модель OSI, инкапсуляция, MTU](M1-networks/01-osi-encapsulation.md) - Семь уровней OSI, Модель TCP/IP, Инкапсуляция, MTU и фрагментация
 
-## Лабораторный работы
+## Лабораторные работы
 - [Лабораторная работа 1 - сети Wireshark](network-labs/wireshark-analysis/01-encapsulation.md) - Певое знакомство с Wireshark
