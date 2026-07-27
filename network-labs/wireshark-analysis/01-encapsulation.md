@@ -52,6 +52,9 @@ L7 недоступно. Но заголовки L2/L3/L4 видны полно�
 
 Отправлял ICMP-пакеты с запретом фрагментации (`-f`) и разным размером
 полезной нагрузки (`-l`).
+
+<img width="976" height="511" alt="preview" src="https://github.com/user-attachments/assets/d90647e2-da58-487e-8a67-0aee17b16c8a" />
+
 ping -f -l 1472 8.8.8.8
 Ответ от 8.8.8.8: число байт=1472 время=22мс TTL=105
 Пакетов: отправлено = 4, получено = 4, потеряно = 0 (0% потерь)
@@ -94,6 +97,7 @@ DNS не хранит имя как строку с точками. Исполь
 06 'yandex'
 03 'net'
 00 ← конец имени
+<img width="893" height="251" alt="preview (1)" src="https://github.com/user-attachments/assets/46e4104b-5b1f-4dec-82c9-e509084ea239" />
 
 **Ограничения формата:** одна метка — до 63 байт, полное имя — до 255.
 
@@ -118,4 +122,4 @@ DNS-туннелирование — атакующий вынужден дро�
 MSS (TCP) = MTU − 20 (IP) − 20 (TCP) → 1460 при MTU 1500
 Данные (UDP/ICMP) = MTU − 20 (IP) − 8 → 1472 при MTU 1500
 
-<img width="976" height="511" alt="preview" src="https://github.com/user-attachments/assets/02c6cd94-a300-46a6-b1ae-36461533c1e1" />
+
