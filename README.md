@@ -10,3 +10,4 @@
 ## Модуль 0. Фундамент
 
 - [Системы счисления и кодировки](M0-fundamentals/01-encodings.md) — binary, hex, ASCII, Base64, URL-encoding, parser differential
+- [Как ОС изолирует](M0-fundamentals/02-os-isolation.md) - Kernel space и user space, процессы и дерево процессов, виртуальная память
