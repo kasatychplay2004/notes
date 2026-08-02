@@ -21,5 +21,5 @@
 ## Лабораторные работы
 - [Лабораторная работа 1 - сети Wireshark](network-labs/wireshark-analysis/01-encapsulation.md) - Первое знакомство с Wireshark
 - [Лабораторная работа 2 - сети Wireshark](network-labs/wireshark-analysis/01-handshake.md) - TCP флаги в Wireshark
-
+- [Лабораторная работа - сегментация Ipv4](network-labs/segmentation) - Как проводить сегментация корпоративной сети
 
